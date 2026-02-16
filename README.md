@@ -38,7 +38,7 @@ pip install speedtest-cli
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/internet-speed-checker.git
+https://github.com/gaurarpan307-web/check_internet_speed
 ```
 
 ### 3️⃣ Navigate to Project Folder
@@ -54,7 +54,7 @@ cd internet-speed-checker
 Run the script:
 
 ```bash
-python speed_checker.py
+python internet_speed.py
 ```
 
 You will see:
