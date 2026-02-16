@@ -38,7 +38,7 @@ pip install speedtest-cli
 ### 2️⃣ Clone the Repository
 
 ```bash
-https://github.com/gaurarpan307-web/check_internet_speed
+https://github.com/arpangaurtech/check_internet_speed
 ```
 
 ### 3️⃣ Navigate to Project Folder
